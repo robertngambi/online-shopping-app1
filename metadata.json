@@ -1,0 +1,6 @@
+{
+  "name": "Eastern Online Store",
+  "description": "Multi-vendor African e-commerce marketplace featuring shop owner subscriptions, product management, live countdown discount promotions, mobile money payments (Airtel, Zamtel, MTN MoMo), ad system, and real-time customer-merchant chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
